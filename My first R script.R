@@ -1,16 +1,16 @@
 
 print("This is my first R script")
 
-print("Input")
+print("INPUT")
 print("TODO: Open the CSV file")
 
-print("Pre-processing")
+print("PRE-PROCESSING")
 print("TODO: Re-name some columns")
 
 print("TODO: Correct the spelling of some cell values")
 
-print("Processing")
+print("PROCESSING")
 print("TODO: Calculate some averages")
 
-print("Output")
+print("OUTPUT")
 print("TODO: Save a new CSV with the averages")
