@@ -14,3 +14,7 @@ print("TODO: Calculate some averages")
 
 print("OUTPUT")
 print("TODO: Save a new CSV with the averages")
+
+print("TODO: Create a report of the tasks we just performed")
+
+print("TODO: Email the report to bob@example.com")
