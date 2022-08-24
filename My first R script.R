@@ -10,3 +10,5 @@ print("TODO: Correct the spelling of some cell values")
 print("TODO: Calculate some averages")
 
 print("TODO: Save a new CSV with the averages")
+
+print("TODO: Create a report of the tasks we just performed")
