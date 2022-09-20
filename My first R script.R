@@ -1,20 +1,20 @@
 
 print("This is my first R script")
 
-print("** INPUT")
+print("** INPUT **")
 print("TODO: Open the CSV file")
 
-print("** PRE-PROCESSING")
+print("** PRE-PROCESSING **")
 print("TODO: Re-name some columns")
 
 print("TODO: Correct the spelling of some cell values")
 
-print("** PROCESSING")
+print("** PROCESSING **")
 print("TODO: Calculate some averages")
 
-print("** OUTPUT")
+print("** OUTPUT **")
 print("TODO: Save a new CSV with the averages")
 
 print("TODO: Create a report of the tasks we just performed")
 
-print("TODO: Email the report to analysis-team@example.com")
+print("TODO: Email the report to james@example.com")
