@@ -9,6 +9,7 @@ print("TODO: Re-name some columns")
 
 print("DEMO CHANGES")
 print("Some changes for the demo")
+print("More changes for the demo")
 
 print("TODO: Correct the spelling of some cell values")
 
@@ -31,3 +32,4 @@ print("Main branch changes on GITHUB")
 print("A small change")
 
 print("Some changes for the demo")
+print("More changes for the demo")
