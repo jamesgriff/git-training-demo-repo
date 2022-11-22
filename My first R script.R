@@ -24,3 +24,5 @@ print("Another change as a demo")
 print("More main branch changes ON LAPTOP")
 
 print("Main branch changes on GITHUB")
+
+print("A small change")
