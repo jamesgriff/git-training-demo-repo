@@ -7,6 +7,9 @@ print("TODO: Open the CSV file")
 print("** PRE-PROCESSING **")
 print("TODO: Re-name some columns")
 
+print("DEMO CHANGES")
+print("Some changes for the demo")
+
 print("TODO: Correct the spelling of some cell values")
 
 print("** PROCESSING **")
@@ -26,3 +29,5 @@ print("More main branch changes ON LAPTOP")
 print("Main branch changes on GITHUB")
 
 print("A small change")
+
+print("Some changes for the demo")
