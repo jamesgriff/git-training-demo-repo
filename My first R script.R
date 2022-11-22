@@ -8,9 +8,7 @@ print("** PRE-PROCESSING **")
 print("TODO: Re-name some columns")
 
 print("DEMO CHANGES")
-print("Some changes for the demo")
-print("More changes for the demo")
-print("3rd round of changes for the demo")
+print("Lots of changes for the demo")
 
 print("TODO: Correct the spelling of some cell values")
 
